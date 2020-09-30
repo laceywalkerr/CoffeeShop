@@ -11,3 +11,5 @@ button.addEventListener("click", () => {
 function getAllBeanVarieties() {
     return fetch(url).then(resp => resp.json());
 }
+
+
