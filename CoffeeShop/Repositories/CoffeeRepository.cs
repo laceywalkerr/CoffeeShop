@@ -27,6 +27,11 @@ namespace CoffeeShop.Repositories
                 using (var cmd = conn.CreateCommand())
                 {
                     cmd.CommandText = "SELECT Id, Title, BeanVarietyId FROM Coffee;";
+
+                    /*SELECT b.Name as BeanVarietyName, c.Id, c.Title, c.BeanVarietyId
+                      FROM Coffee c
+                      LEFT JOIN BeanVariety b on c.BeanVarietyId = b.Id;*/
+
                     var reader = cmd.ExecuteReader();
                     var coffees = new List<Coffee>();
                     while (reader.Read())
@@ -36,6 +41,12 @@ namespace CoffeeShop.Repositories
                             Id = reader.GetInt32(reader.GetOrdinal("Id")),
                             Title = reader.GetString(reader.GetOrdinal("Title")),
                             BeanVarietyId = reader.GetInt32(reader.GetOrdinal("BeanVarietyId")),
+
+                            /*BeanVariety = new BeanVariety
+                            {
+                                Id = reader.GetInt32(reader.GetOrdinal("BeanVarietyId")),
+                                Name = reader.GetString(reader.GetOrdinal("BeanVarietyName"))
+                            }*/
                         };
 
 
