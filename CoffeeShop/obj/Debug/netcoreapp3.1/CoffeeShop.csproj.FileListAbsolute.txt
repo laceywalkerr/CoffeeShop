@@ -79,8 +79,6 @@ C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp3.1\runtimes\
 C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.csprojAssemblyReference.cache
 C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.AssemblyInfoInputs.cache
 C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.AssemblyInfo.cs
-C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.csproj.CoreCompileInputs.cache
-C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.RazorTargetAssemblyInfo.cache
 C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.csproj.CopyComplete
 C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\staticwebassets\CoffeeShop.StaticWebAssets.Manifest.cache
@@ -88,3 +86,5 @@ C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\staticweb
 C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.dll
 C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.pdb
 C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.genruntimeconfig.cache
+C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Lacey\workspace\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.MvcApplicationPartsAssemblyInfo.cache
